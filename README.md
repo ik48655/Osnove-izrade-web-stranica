@@ -1,6 +1,8 @@
-# Osnove-izrade-web-stranica
-Vjezbe iz OIWS
+# Web-design-basics
+Problem exercises in Web design basics
 
-Godina I.
+Year = I.
 
-Semestar I.
+Semester = I.
+
+
