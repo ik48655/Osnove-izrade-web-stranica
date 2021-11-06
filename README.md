@@ -1,8 +1,8 @@
 # Web-design-basics
 Problem exercises in Web design basics
 
-Year = I.
+Year I.
 
-Semester = I.
+Semester I.
 
 
